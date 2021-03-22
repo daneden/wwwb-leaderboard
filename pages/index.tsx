@@ -1,5 +1,6 @@
-import { getCompetitions, PollOption } from "../utils/twitter"
+import { getCompetitions } from "../utils/twitter"
 import Link from "next/link"
+import Head from "next/head"
 
 interface EmojiWithVoteCount {
   label: string
@@ -23,6 +24,13 @@ export default function HomePage({
 
   return (
     <>
+      <Head>
+        <title>Who Would Win? Bot Leaderboard</title>
+        <link
+          rel="icon"
+          href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🥊</text></svg>"
+        />
+      </Head>
       <main>
         <header>
           <h1>Who Would Win?</h1>
