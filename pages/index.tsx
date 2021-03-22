@@ -11,6 +11,16 @@ export default function HomePage({
 }: {
   leaderboard: EmojiWithVoteCount[]
 }) {
+  const namedCompetitors = leaderboard.map(({ label, victories }) => {
+    const emoji = label.replace(/[ a-z0-9;!'’]*/gi, "")
+    const name = label.replace(emoji, "").trim()
+    return {
+      emoji,
+      name,
+      victories,
+    }
+  })
+
   return (
     <>
       <main>
@@ -29,12 +39,10 @@ export default function HomePage({
           out on top!
         </p>
         <ol>
-          {leaderboard.map((emoji) => (
-            <li key={emoji.label}>
-              <p className="emoji">
-                {emoji.label.replace(/[ a-z0-9;!'’]*/gi, "")}
-              </p>
-              <p className="votes">{emoji.victories} victories</p>
+          {namedCompetitors.map((competitor) => (
+            <li key={competitor.name} data-name={competitor.name}>
+              <p className="emoji">{competitor.emoji}</p>
+              <p className="votes">{competitor.victories} victories</p>
             </li>
           ))}
         </ol>
@@ -90,7 +98,7 @@ export default function HomePage({
         }
 
         ol li::before {
-          content: "#" counter(leaderboard);
+          content: "#" counter(leaderboard) ": " attr(data-name);
           font-weight: bold;
         }
       `}</style>
@@ -150,8 +158,7 @@ export async function getStaticProps() {
 
   return {
     props: { leaderboard },
-    // Refresh at most every 24hrs, which is how often new competitions are
-    // posted
-    revalidate: 60 * 60 * 24,
+    // Refresh at most every 12hrs, which is twice as often as new competitions
+    revalidate: 60 * 60 * 12,
   }
 }
