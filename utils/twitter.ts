@@ -42,7 +42,7 @@ interface CompetitionsResponse {
 
 interface Competition {
   id: string
-  options: [PollOption]
+  options: PollOption[]
 }
 
 // Ignoring a warning here about using BigInt literals since this code only runs
@@ -61,7 +61,7 @@ export async function getCompetitions(
   const options: RequestParameters = {
     expansions: "attachments.poll_ids",
     "poll.fields": "options,voting_status",
-    max_results: "50",
+    max_results: "100",
   }
 
   if (paginationToken !== undefined) {

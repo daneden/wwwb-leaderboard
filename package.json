@@ -17,5 +17,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start"
+  },
+  "devDependencies": {
+    "dotenv": "^10.0.0",
+    "tsm": "^2.1.4"
   }
 }
