@@ -41,7 +41,9 @@ async function updateLeaderboard() {
       return competitors[b].wins - competitors[a].wins
     })
     .map((key) => {
-      return [key, competitors[key].wins, competitors[key].losses].join(",")
+      return [`"${key}"`, competitors[key].wins, competitors[key].losses].join(
+        ","
+      )
     })
     .join("\n")
 
