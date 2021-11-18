@@ -19,6 +19,9 @@ jobs:
         run: npm i
 
       - name: Fetch updates
+        env:
+          TWITTER_CONSUMER_SECRET: ${{ secrets.TWITTER_CONSUMER_SECRET }}
+          TWITTER_CONSUMER_KEY: ${{ secrets.TWITTER_CONSUMER_KEY }}
         run: npx tsm ./utils/updateLeaderboard.ts
 
       - name: Commit changes
