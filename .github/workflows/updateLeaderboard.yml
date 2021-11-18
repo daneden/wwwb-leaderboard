@@ -24,6 +24,11 @@ jobs:
           TWITTER_CONSUMER_KEY: ${{ secrets.TWITTER_CONSUMER_KEY }}
         run: npx tsm ./utils/updateLeaderboard.ts
 
+      - name: Configure Git
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "dan.eden+bot@me.com"
+
       - name: Commit changes
         run: |
           git add leaderboard.csv
