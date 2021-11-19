@@ -45,13 +45,12 @@ async function updateLeaderboard() {
       return competitors[b].wins - competitors[a].wins
     })
     .map((key) => {
-      return [`"${key}"`, competitors[key].wins, competitors[key].losses].join(
-        ","
-      )
+      let emoji = competitors[key]
+      return [`"${key}"`, emoji.wins, emoji.losses, emoji.votes].join(",")
     })
     .join("\n")
 
-  const csv = `emoji,wins,losses
+  const csv = `emoji,wins,losses,votes
 ${leaderboard}
 `
   console.log(csv)
