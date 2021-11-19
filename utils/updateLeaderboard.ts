@@ -21,18 +21,22 @@ async function updateLeaderboard() {
       competitors[winner.label] = {
         wins: 1,
         losses: 0,
+        votes: winner.votes,
       }
     } else {
       competitors[winner.label].wins += 1
+      competitors[winner.label].votes += winner.votes
     }
 
     if (competitors[loser.label] === undefined) {
       competitors[loser.label] = {
         wins: 0,
         losses: 1,
+        votes: loser.votes,
       }
     } else {
       competitors[loser.label].losses += 1
+      competitors[loser.label].votes += loser.votes
     }
   })
 
