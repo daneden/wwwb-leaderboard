@@ -1,17 +1,17 @@
 emoji,wins,losses,votes
 "🥌 curling stone",8,1,102
+"🌶 hot pepper",7,1,41
 "🥇 1st place medal",7,0,13
 "🥭 mango",6,1,21
 "🧿 nazar amulet",6,0,28
 "🤑 money mouth face",6,3,20
 "🧱 brick",6,1,91
-"🌶 hot pepper",6,1,34
 "🌌 milky way",6,0,30
-"🌽 ear of corn",5,0,14
+"🌽 ear of corn",5,1,19
+"📥 inbox tray",5,5,30
 "🌀 cyclone",5,0,16
 "🐓 rooster",5,0,18
 "🔛 ON! arrow",5,4,22
-"📥 inbox tray",5,4,28
 "👡 woman’s sandal",5,5,86
 "⛅ sun behind cloud",5,1,21
 "🦆 duck",5,0,17
@@ -29,6 +29,7 @@ emoji,wins,losses,votes
 "⛽ fuel pump",5,2,27
 "🦸‍♀️ woman superhero",5,1,26
 "🧧 red envelope",5,1,47
+"🌴 palm tree",4,1,29
 "™ trade mark",4,2,29
 "🐉 dragon",4,1,15
 "🏞 national park",4,2,29
@@ -88,10 +89,13 @@ emoji,wins,losses,votes
 "🧗 person climbing",4,1,66
 "🚺 women’s room",4,1,46
 "🧖‍♀️ woman in steamy room",4,0,132
+"⛩ shinto shrine",3,1,10
+"🚤 speedboat",3,1,14
+"🏯 Japanese castle",3,0,10
+"🕗 eight o’clock",3,2,13
 "🍪 cookie",3,1,30
 "☕ hot beverage",3,1,89
 "👩‍🌾 woman farmer",3,0,19
-"🚤 speedboat",3,0,11
 "👵 old woman",3,0,18
 "🔱 trident emblem",3,2,14
 "🐲 dragon face",3,0,10
@@ -111,7 +115,6 @@ emoji,wins,losses,votes
 "🏊‍♀️ woman swimming",3,0,15
 "📲 mobile phone with arrow",3,1,39
 "🦖 T Rex",3,0,52
-"🕗 eight o’clock",3,1,12
 "🐾 paw prints",3,1,22
 "😴 sleeping face",3,5,28
 "📡 satellite antenna",3,3,15
@@ -190,7 +193,6 @@ emoji,wins,losses,votes
 "💜 purple heart",3,1,11
 "🍄 mushroom",3,1,23
 "🚢 ship",3,2,26
-"🌴 palm tree",3,1,20
 "🚹 men’s room",3,1,12
 "🌉 bridge at night",3,2,13
 "👩‍🏫 woman teacher",3,0,17
@@ -234,7 +236,10 @@ emoji,wins,losses,votes
 "🌈 rainbow",3,1,31
 "🙇‍♀️ woman bowing",3,0,10
 "⛔ no entry",3,0,24
-"👱‍♀️ woman; blond hair",2,3,25
+"💕 two hearts",2,2,10
+"🧜‍♂️ merman",2,0,6
+"✳ eight spoked asterisk",2,3,17
+"👱‍♀️ woman; blond hair",2,3,29
 "🔮 crystal ball",2,3,11
 "💼 briefcase",2,1,7
 "🚟 suspension railway",2,2,8
@@ -354,7 +359,6 @@ emoji,wins,losses,votes
 "❎ cross mark button",2,1,2
 "🆙 UP! button",2,1,9
 "🐴 horse face",2,1,9
-"🏯 Japanese castle",2,0,5
 "🕰 mantelpiece clock",2,1,8
 "🤦 person facepalming",2,2,17
 "🔏 locked with pen",2,2,5
@@ -452,7 +456,6 @@ emoji,wins,losses,votes
 "📕 closed book",2,0,7
 "👩‍👧 family; woman, girl",2,3,21
 "👁 eye",2,3,8
-"⛩ shinto shrine",2,1,6
 "🧳 luggage",2,1,7
 "🌄 sunrise over mountains",2,2,3
 "🛁 bathtub",2,1,11
@@ -518,6 +521,8 @@ emoji,wins,losses,votes
 "✨ sparkles",2,0,90
 "⛴ ferry",2,1,29
 "🥪 sandwich",2,0,149
+"🧙‍♀️ woman mage",1,1,28
+"🕛 twelve o’clock",1,3,4
 "💇 person getting haircut",1,3,8
 "🥦 broccoli",1,1,86
 "1️⃣ keycap; 1",1,4,6
@@ -585,7 +590,6 @@ emoji,wins,losses,votes
 "🎿 skis",1,0,5
 "⚗ alembic",1,5,8
 "🥡 takeout box",1,3,28
-"💕 two hearts",1,2,4
 "🥿 flat shoe",1,4,9
 "🌹 rose",1,2,9
 "🧥 coat",1,0,3
@@ -656,7 +660,6 @@ emoji,wins,losses,votes
 "🙅‍♂️ man gesturing NO",1,2,5
 "🐆 leopard",1,1,48
 "🔝 TOP arrow",1,3,12
-"✳ eight spoked asterisk",1,3,7
 "⭐ star",1,0,3
 "🚚 delivery truck",1,0,1
 "#️⃣ keycap; #",1,0,3
@@ -720,7 +723,6 @@ emoji,wins,losses,votes
 "🥋 martial arts uniform",1,4,7
 "🦎 lizard",1,1,4
 "🔧 wrench",1,4,10
-"🕛 twelve o’clock",1,2,2
 "🕤 nine thirty",1,3,12
 "🍕 pizza",1,0,0
 "💪 flexed biceps",1,2,5
@@ -949,7 +951,6 @@ emoji,wins,losses,votes
 "🎹 musical keyboard",1,0,9
 "🕳 hole",1,0,4
 "🔁 repeat button",1,0,4
-"🧜‍♂️ merman",1,0,1
 "⛵ sailboat",1,0,26
 "🤘 sign of the horns",1,1,17
 "↘ down right arrow",1,0,8
@@ -965,14 +966,14 @@ emoji,wins,losses,votes
 "⏸ pause button",1,0,43
 "💰 money bag",1,0,27
 "♨ hot springs",1,0,20
-"🧙‍♀️ woman mage",1,0,23
 "❇ sparkle",1,0,10
 "🥔 potato",1,0,165
 "🗜 clamp",1,0,27
 "🍓",1,0,34
 "😐",1,0,325
 "📷",1,0,101
-"🍍 pineapple",0,2,7
+"🗨 left speech bubble",0,3,3
+"🍍 pineapple",0,2,9
 "🍒 cherries",0,5,10
 "🔖 bookmark",0,4,10
 "🕊 dove",0,3,5
@@ -1126,7 +1127,6 @@ emoji,wins,losses,votes
 "🔈 speaker low volume",0,1,1
 "😵 dizzy face",0,1,0
 "💐 bouquet",0,2,16
-"🗨 left speech bubble",0,2,1
 "📒 ledger",0,1,0
 "👎 thumbs down",0,2,7
 "👨‍🦳 man; white hair",0,2,2
