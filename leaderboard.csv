@@ -7,6 +7,7 @@ emoji,wins,losses,votes
 "🤑 money mouth face",6,3,20
 "🧱 brick",6,1,91
 "🌌 milky way",6,0,30
+"⚜ fleur de lis",5,2,35
 "🌽 ear of corn",5,1,19
 "📥 inbox tray",5,5,30
 "🌀 cyclone",5,0,16
@@ -20,7 +21,6 @@ emoji,wins,losses,votes
 "🎳 bowling",5,0,15
 "🐍 snake",5,0,10
 "🍠 roasted sweet potato",5,2,7
-"⚜ fleur de lis",5,1,33
 "🚂 locomotive",5,0,49
 "🦒 giraffe",5,0,26
 "♟ chess pawn",5,0,19
@@ -29,6 +29,7 @@ emoji,wins,losses,votes
 "⛽ fuel pump",5,2,27
 "🦸‍♀️ woman superhero",5,1,26
 "🧧 red envelope",5,1,47
+"🚡 aerial tramway",4,1,21
 "🌴 palm tree",4,1,29
 "™ trade mark",4,2,29
 "🐉 dragon",4,1,15
@@ -90,7 +91,7 @@ emoji,wins,losses,votes
 "🚺 women’s room",4,1,46
 "🧖‍♀️ woman in steamy room",4,0,132
 "⛩ shinto shrine",3,1,10
-"🚤 speedboat",3,1,14
+"🚤 speedboat",3,1,15
 "🏯 Japanese castle",3,0,10
 "🕗 eight o’clock",3,2,13
 "🍪 cookie",3,1,30
@@ -176,7 +177,6 @@ emoji,wins,losses,votes
 "🐯 tiger face",3,3,12
 "🏊‍♂️ man swimming",3,1,6
 "👾 alien monster",3,2,16
-"🚡 aerial tramway",3,1,16
 "🥨 pretzel",3,1,17
 "📧 e mail",3,2,14
 "🧹 broom",3,0,6
@@ -236,6 +236,7 @@ emoji,wins,losses,votes
 "🌈 rainbow",3,1,31
 "🙇‍♀️ woman bowing",3,0,10
 "⛔ no entry",3,0,24
+"🧐 face with monocle",2,3,14
 "💕 two hearts",2,2,10
 "🧜‍♂️ merman",2,0,6
 "✳ eight spoked asterisk",2,3,17
@@ -813,7 +814,6 @@ emoji,wins,losses,votes
 "🧬 dna",1,0,2
 "ℹ information",1,0,1
 "👨‍👦 family; man, boy",1,3,12
-"🧐 face with monocle",1,3,12
 "😏 smirking face",1,1,11
 "🙉 hear no evil monkey",1,1,3
 "🤛 left facing fist",1,2,4
@@ -972,6 +972,7 @@ emoji,wins,losses,votes
 "🍓",1,0,34
 "😐",1,0,325
 "📷",1,0,101
+"🤩 star struck",0,3,1
 "🗨 left speech bubble",0,3,3
 "🍍 pineapple",0,2,9
 "🍒 cherries",0,5,10
@@ -1073,7 +1074,6 @@ emoji,wins,losses,votes
 "🔣 input symbols",0,3,2
 "☑ ballot box with check",0,2,10
 "👩‍🦲 woman; bald",0,2,5
-"🤩 star struck",0,2,0
 "🤴 prince",0,1,0
 "🛵 motor scooter",0,1,1
 "🔬 microscope",0,2,13
