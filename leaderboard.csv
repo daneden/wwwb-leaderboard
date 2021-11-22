@@ -90,6 +90,7 @@ emoji,wins,losses,votes
 "🧗 person climbing",4,1,66
 "🚺 women’s room",4,1,46
 "🧖‍♀️ woman in steamy room",4,0,132
+"🧙 mage",3,0,9
 "⛩ shinto shrine",3,1,10
 "🚤 speedboat",3,1,15
 "🏯 Japanese castle",3,0,10
@@ -236,7 +237,11 @@ emoji,wins,losses,votes
 "🌈 rainbow",3,1,31
 "🙇‍♀️ woman bowing",3,0,10
 "⛔ no entry",3,0,24
-"🧐 face with monocle",2,3,14
+"🕓 four o’clock",2,0,4
+"🛎 bellhop bell",2,2,11
+"🚴‍♀️ woman biking",2,3,45
+"🧗‍♀️ woman climbing",2,3,10
+"🧐 face with monocle",2,3,15
 "💕 two hearts",2,2,10
 "🧜‍♂️ merman",2,0,6
 "✳ eight spoked asterisk",2,3,17
@@ -265,7 +270,6 @@ emoji,wins,losses,votes
 "💂‍♀️ woman guard",2,1,4
 "🦛 hippopotamus",2,2,10
 "🐽 pig nose",2,2,46
-"🛎 bellhop bell",2,1,10
 "📑 bookmark tabs",2,1,10
 "😂 face with tears of joy",2,1,4
 "🧽 sponge",2,1,3
@@ -388,7 +392,6 @@ emoji,wins,losses,votes
 "🐢 turtle",2,2,20
 "✒ black nib",2,1,6
 "🏳️‍🌈 rainbow flag",2,1,41
-"🧙 mage",2,0,4
 "🔢 input numbers",2,2,11
 "🐺 wolf face",2,0,2
 "🍨 ice cream",2,1,6
@@ -411,7 +414,6 @@ emoji,wins,losses,votes
 "👲 man with Chinese cap",2,0,6
 "🔩 nut and bolt",2,1,6
 "🏌️‍♀️ woman golfing",2,0,3
-"🧗‍♀️ woman climbing",2,2,8
 "‼ double exclamation mark",2,1,18
 "🏃‍♂️ man running",2,1,9
 "🥩 cut of meat",2,1,5
@@ -807,7 +809,6 @@ emoji,wins,losses,votes
 "🎄 Christmas tree",1,3,10
 "🏊 person swimming",1,1,1
 "🦓 zebra",1,1,7
-"🕓 four o’clock",1,0,1
 "💂 guard",1,2,9
 "🏪 convenience store",1,3,10
 "⚫ black circle",1,2,4
@@ -878,7 +879,6 @@ emoji,wins,losses,votes
 "🧟‍♀️ woman zombie",1,0,3
 "🥠 fortune cookie",1,1,7
 "☘ shamrock",1,2,8
-"🚴‍♀️ woman biking",1,3,40
 "🌛 first quarter moon face",1,0,2
 "🤔 thinking face",1,3,21
 "🏖 beach with umbrella",1,0,3
@@ -972,6 +972,7 @@ emoji,wins,losses,votes
 "🍓",1,0,34
 "😐",1,0,325
 "📷",1,0,101
+"♋ Cancer",0,4,6
 "🤩 star struck",0,3,1
 "🗨 left speech bubble",0,3,3
 "🍍 pineapple",0,2,9
@@ -1026,7 +1027,6 @@ emoji,wins,losses,votes
 "🥀 wilted flower",0,3,6
 "🍂 fallen leaf",0,1,1
 "🤷 person shrugging",0,2,7
-"♋ Cancer",0,3,6
 "📛 name badge",0,2,5
 "🙋 person raising hand",0,2,1
 "🍸 cocktail glass",0,2,1
